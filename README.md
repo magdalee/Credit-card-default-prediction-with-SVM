@@ -2,7 +2,7 @@
 This project aims to build and optimize a classification model based on Support Vector Machines (SVM) to predict bank customer defaults. The study focuses on handling real-world data challenges such as class imbalance and high feature multicollinearity.
 The project was developed as part of the Artificial Intelligence Methods laboratory course.
 
-# Key Workflow**
+# Key Workflow
 Exploratory Data Analysis (EDA): Identified key patterns and strong correlations between financial features.
 
 **Feature Engineering:**
